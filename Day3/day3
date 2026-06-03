@@ -1,1 +1,16 @@
+Role-Based Prompting
+Role-based prompting is one of the most high-leverage prompting techniques available today. The core idea is simple: before asking Claude a question, tell it who to be. This shifts Claude from a generalist answering for everyone to a specialist answering for you.
+Without a role, Claude produces balanced, broadly applicable responses — useful, but often too generic to be immediately actionable. With a role, Claude activates domain-specific reasoning: the right vocabulary, the right priorities, the right real-world constraints.
 
+The formula is straightforward:
+"You are a [role] with [X years] experience in [specific domain]. How do I [task] for [specific context]?"
+The more specific the role and the context, the more expert the output. The attrition example in the guide is a perfect demonstration — the generic prompt gets textbook advice; the role-assigned prompt gets SSC-specific tactics with tenure-band diagnostics. That's the difference between reading a blog post and calling a consultant.
+Three compounding benefits: You get deeper insight without extra prompts, you save time on follow-ups because context is front-loaded, and your outputs automatically match your intended audience in tone and format.
+Day 3 of the 60 Days Claude Challenge. ✅
+hashtag
+
+#60DaysClaudeChallenge
+#RoleBasedPrompt hashtag
+#AILiteracy
+#HRTech
+@ABTalksonAI @Anthropic
