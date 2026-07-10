@@ -1,0 +1,23 @@
+🚀 **Day 40 of the Claude Coding Challenge – Build Your Own AI Assistant**
+
+Today I built an **AI-Powered Mock Interview Assistant**—a production-ready AI application created from **a single prompt** in Claude.
+
+This project goes beyond building a chatbot. It demonstrates how to design AI products by combining **user experience, prompt engineering, and intelligent workflows**.
+
+💡 **What it does:**
+✅ Personalizes interviews based on role, company, and experience
+✅ Supports resume or job description uploads for tailored questions
+✅ Simulates natural interview conversations
+✅ Tracks confidence throughout the session
+✅ Generates a detailed feedback report with strengths, improvement areas, confidence scores, and actionable coaching
+
+### Key Learnings
+
+🔹 Design AI assistants around real user problems
+🔹 Engineer production-quality system prompts
+🔹 Blend UX with AI to create engaging experiences
+🔹 Build purpose-driven interfaces instead of generic chat windows
+
+The biggest takeaway? **The value of an AI product isn't just the model—it's the experience you design around it.**
+
+#ClaudeCode #AI #ArtificialIntelligence #PromptEngineering #AIAssistant #GenerativeAI #AIProduct #ProductDesign #InterviewPreparation #CareerTech #WebDevelopment #HTML #Innovation #BuildInPublic #100DaysOfAI
